@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox, filedialog, simpledialog
-from hypervisor import Hypervisor  # Assuming the hypervisor is saved in hypervisor.py
+from hypervisor import Hypervisor  
 
 class VirtualMachineManagerApp:
     def __init__(self, root):
